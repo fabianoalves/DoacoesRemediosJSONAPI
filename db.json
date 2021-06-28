@@ -23,18 +23,16 @@
       "nome": "Usuarios Teste3",
       "email": "teste3@teste.com.br",
       "senha": "QmfjyoeHUIjONy07xPAt1A=="
-    },
+    }
+  ],
+  "instituicoes-indicacao": [
     {
-      "id": 8,
-      "nome": "Usuarios Teste4",
-      "email": "teste4@teste.com.br",
-      "senha": "QmfjyoeHUIjONy07xPAt1A=="
-    },
-    {
-      "nome": "Usuarios Teste5",
-      "email": "teste5@teste.com.br",
-      "senha": "123",
-      "id": 9
+      "id": 1,
+      "nome": "Ações sociais itinerantes OAB – 125ª Subseção de Santana/SP",
+      "endereco": "Rua Victório Primon, 372 – Casa Verde – São Paulo – SP",
+      "cep": "02550-050",
+      "telefone": "(11) 3966-0619 / (11) 3857.2298",
+      "email": "santana@oabsp.org.br"
     }
   ],
   "instituicoes": [
