@@ -30,36 +30,42 @@
       "id": 1,
       "nome": "Ações sociais itinerantes OAB – 125ª Subseção de Santana/SP",
       "endereco": "Rua Victório Primon, 372",
-      "bairro": "Casa Verde",      
+      "bairro": "CASA VERDE",      
       "cidade": "São Paulo",
       "uf": "SP",
       "cep": "02550-050",
       "telefone": "(11) 3966-0619 / (11) 3857.2298",
       "email": "santana@oabsp.org.br",
+      "latitude": -23.5083777, 
+      "longitude": -46.6723286,
       "status": 1
     },
     {
       "id": 2,
       "nome": "Comissão da Saúde Pública e Suplementar OAB – 125ª Subseção de Santana/SP",
       "endereco": "Rua Duarte de Azevedo, 284, Conj. 83",
-      "bairro": "Santana",      
+      "bairro": "SANTANA",      
       "cidade": "São Paulo",
       "uf": "SP",
       "cep": "02036-021",
       "telefone": "",
       "email": "",
+      "latitude": -23.5009555,
+      "longitude": -46.6236426,
       "status": 1
     },
     {
       "id": 3,
       "nome": "Farmácia da Gente",
       "endereco": "Rua Cerqueira César, 383",
-      "bairro": "Centro",      
+      "bairro": "CENTRO",      
       "cidade": "São Paulo",
       "uf": "SP",
       "cep": "08022-270",
       "telefone": "0800-772.7213",
       "email": "",
+      "latitude": -21.1776827, 
+      "longitude": -47.8071392,
       "status": 1
     },
     {
@@ -72,6 +78,8 @@
       "cep": "01321-010",
       "telefone": "(11) 3241-4403 / (11) 3115-0759",
       "email": "",
+      "latitude": -21.2032285, 
+      "longitude": -47.797619,
       "status": 1
     },
     {
@@ -84,6 +92,8 @@
       "cep": "01329-000",
       "telefone": "(11) 3253-5200",
       "email": "",
+      "latitude": -23.5600755,
+      "longitude": -46.6492694,
       "status": 1
     },
     {
@@ -96,6 +106,8 @@
       "cep": "01321-010",
       "telefone": "(11) 3241-1632 / (11) 3241-1163",
       "email": "",
+      "latitude": -23.5570116,
+      "longitude": -46.6440069,
       "status": 1
     },
     {
@@ -108,6 +120,8 @@
       "cep": "01330-010",
       "telefone": "(11) 3284-4601 / FAX: (11) 3541-3704",
       "email": "",
+      "latitude": -23.5627032,
+      "longitude": -46.651433,
       "status": 1
     },
     {
@@ -120,6 +134,8 @@
       "cep": "01127-020",
       "telefone": "(11) 3222-0619 / (11) 3224-9903",
       "email": "",
+      "latitude": -23.5261135,
+      "longitude": -46.6438591,
       "status": 1
     },
     {
@@ -132,6 +148,8 @@
       "cep": "01536-000",
       "telefone": "(11) 3276-6480 / (11) 3209-3304",
       "email": "",
+      "latitude": -23.5696198,
+      "longitude": -46.6257775,
       "status": 1
     },
     {
@@ -144,6 +162,8 @@
       "cep": "01532-900",
       "telefone": "(11) 3208-2211",
       "email": "",
+      "latitude": -23.566786,
+      "longitude": -46.6414337,
       "status": 1
     },
     {
@@ -156,6 +176,8 @@
       "cep": "01007-020",
       "telefone": "(11) 3101-0812",
       "email": "",
+      "latitude": -23.5488495,
+      "longitude": -46.6407731,
       "status": 1
     },
     {
@@ -168,6 +190,8 @@
       "cep": "01137-020",
       "telefone": "(11) 3392-1854 / (11) 3392-1944",
       "email": "",
+      "latitude": -23.524835,
+      "longitude": -46.6539133,
       "status": 1
     },
     {
@@ -180,6 +204,8 @@
       "cep": "01153-000",
       "telefone": "(11) 3662-0781 / (11) 3666-2034",
       "email": "",
+      "latitude": -23.5320376,
+      "longitude": -46.6545584,
       "status": 1
     },
     {
@@ -192,6 +218,8 @@
       "cep": "01153-000",
       "telefone": "(11) 3826-0096 / (11) 3826-7970",
       "email": "",
+      "latitude": -23.5320376,
+      "longitude": -46.6545584,
       "status": 1
     },
     {
@@ -204,6 +232,8 @@
       "cep": "01153-000",
       "telefone": "(11) 3826-0096 / (11) 3826-7970",
       "email": "",
+      "latitude": -23.5320376,
+      "longitude": -46.6545584,
       "status": 1
     },
     {
@@ -216,6 +246,8 @@
       "cep": "01153-000",
       "telefone": "(11) 3828-2178",
       "email": "",
+      "latitude": -23.5320376,
+      "longitude": -46.6545584,
       "status": 1
     },
     {
@@ -228,6 +260,8 @@
       "cep": "01218-000",
       "telefone": "(11) 3331-1216 / (11) 3331-1317",
       "email": "",
+      "latitude": -23.5318797,
+      "longitude": -46.6441294,
       "status": 1
     },
     {
@@ -240,6 +274,8 @@
       "cep": "01135-010",
       "telefone": "(11) 3392-1281 / (11) 3392-1882",
       "email": "",
+      "latitude": -23.5254174,
+      "longitude": -46.6537749,
       "status": 1
     },
     {
@@ -252,6 +288,8 @@
       "cep": "01153-000",
       "telefone": "(11) 3826-0096 / (11) 3826-7970",
       "email": "",
+      "latitude": -23.5320376,
+      "longitude": -46.6545584,
       "status": 1
     },
     {
@@ -264,6 +302,8 @@
       "cep": "01153-000",
       "telefone": "(11) 3826-0096 / (11) 3826-7970",
       "email": "",
+      "latitude": -23.5320376,
+      "longitude": -46.6545584,
       "status": 1
     },
     {
@@ -276,6 +316,8 @@
       "cep": "03175-001 ",
       "telefone": "(11) 2268-3542",
       "email": "",
+      "latitude": -23.5538468,
+      "longitude": -46.5821542,
       "status": 1
     },
     {
@@ -288,6 +330,8 @@
       "cep": "03192-060",
       "telefone": "(11) 2965-1066 / (11) 2021-7210",
       "email": "",
+      "latitude": -23.5709198,
+      "longitude": -46.5776962,
       "status": 1
     }
   ]
